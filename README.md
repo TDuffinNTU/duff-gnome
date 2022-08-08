@@ -4,7 +4,7 @@ a few of my config files for GNOME, and my extensions :)
 # INSTALLED EXTENSIONS
 
 https://extensions.gnome.org/extension/3628/arcmenu/
-  - Config file here
+  - Config file [here](https://github.com/TDuffinNTU/duff-gnome/blob/main/duffArcMenu)
 
 https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/
   - Nice little Bluetooth utility
@@ -16,7 +16,7 @@ https://extensions.gnome.org/extension/97/coverflow-alt-tab/
   - A nice alt-tab effect, not too over-the-top!
 
 https://extensions.gnome.org/extension/1160/dash-to-panel/
-  - Config file here
+  - Config file [here](https://github.com/TDuffinNTU/duff-gnome/blob/main/dashToPanel)
 
 https://extensions.gnome.org/extension/770/force-quit/
   - For the fiddly programs that just won't die
